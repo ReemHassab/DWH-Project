@@ -15,4 +15,3 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 #### Specifications 
 ----
 # Data Archeticture 
-# complete from here: https://github.com/DataWithBaraa/sql-data-warehouse-project 
